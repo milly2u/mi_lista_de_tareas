@@ -7,6 +7,10 @@ Este es un proyecto simple de una **Lista de Tareas** utilizando Python y Tkinte
 - **Eliminar Tareas**: Permite eliminar tareas de la lista.
 - **Marcar como Completada**: Permite marcar tareas como completadas.
 
+## Captura de Pantalla
+![Captura de Pantalla](screenshot.png)
+
+
 ## Instalación
 
 1. **Instalar Python**: Asegúrate de tener Python 3 instalado en tu sistema. Puedes descargarlo desde [python.org](https://www.python.org/downloads/).
